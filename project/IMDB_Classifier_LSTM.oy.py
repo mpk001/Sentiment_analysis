@@ -1,5 +1,5 @@
-# author - Richard Liao
-# Dec 26 2016
+# author - mpk001
+# Mar 26 2017
 import numpy as np
 import pandas as pd
 import re
